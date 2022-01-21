@@ -41,7 +41,6 @@
 7. 토픽모델링 사전작업
 8. 토픽수에 따른 Coherence Score 구하기
 9. 토픽모델링 하기
-
 10.토픽모델링 결과: 문서별 토픽 비율 정리
 
 **4. Correspondence Analysis 폴더**
